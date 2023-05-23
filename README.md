@@ -146,9 +146,20 @@ __Dr. André Dietrich__: LiaScript Maintainer
 
 1. Introduction
    
-   - LiaScript
-   - LiveEditor
+   - LiaScript: https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/01_Introduction.md
+   - LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/01_Introduction.md
 
 2. Tutorial
+
+   - LiaScript: https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/02_Tutorial.md
+   - LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/02_Tutorial.md
+
 3. GitHub
+
+   - LiaScript: https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/03_GitHub.md
+   - LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/03_GitHub.md
+
 4. Extensions
+
+   - LiaScript: https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/04_Extensions.md
+   - LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/04_Extensions.md
