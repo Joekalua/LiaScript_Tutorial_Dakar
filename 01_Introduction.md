@@ -142,7 +142,7 @@ Just click on the presentation button to switch between modes.
 The idea is simple, make engaging educational content easy to write and create.
 Distribute it via different sources using the latest Web 3.0 technologies, (no central server required).
 
-
+https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/01_Introduction.md
 
 ## Survey
 
