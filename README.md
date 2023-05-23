@@ -145,7 +145,7 @@ __Dr. André Dietrich__: LiaScript Maintainer
 ## Materials
 
 1. Introduction
-   
+
    - LiaScript: https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/01_Introduction.md
    - LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/01_Introduction.md
 
