@@ -13,9 +13,9 @@ import: https://raw.githubusercontent.com/liascript-templates/plantUML/master/RE
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Kigali/main/C-GitHub_Tutorial.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/03_GitHub.md)
 
-# Github Introduction
+# How to handle different versions - Github Introduction
 
 Let's start!
 
@@ -202,7 +202,9 @@ GitHub is a platform that offers online Git version management and adds it to a 
 
 > Let's take a closer view and generate your first Github project.
 
+## Demonstration
 
++ How to work with GitHub 
 
 
 ### Perfect OER Material - a text file
