@@ -14,6 +14,8 @@ comment:  Try to write a short comment about
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/04_Extensions.md)
+
 # Course Main Title
 
 ## Upload an image

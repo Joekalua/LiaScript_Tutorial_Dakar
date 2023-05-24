@@ -13,6 +13,7 @@ comment:  Interactive LiaScript Tutorial
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/README.md)
 
 ## Welcome to Hands-on LiaScript Workshop
 

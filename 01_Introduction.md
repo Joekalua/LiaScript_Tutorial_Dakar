@@ -151,7 +151,7 @@ style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-
 | # Digital Systems|\                                      .-----------.
 | (SoSe 2023)      +-+                              ╔══════|   LMS  X  |══════╗
 |                    |  --------------------------> ║      '-----------'      ║
-|"##" Task 1         |                              ║ Digital Systems 2021    ║
+|"##" Task 1         |                              ║ Digital Systems 2023    ║
 |                    |                              ║                         ║
 | + Implement ...    | --------------+              ║ import numpy as np      ║
 |                    |    Trans-     |              ║ ...                     ║
@@ -160,13 +160,13 @@ style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-
                                 .-,(   ),-.                .-----------.
 License: ...                 .-(           )-.      ╔══════|   LMS  Y  |══════╗
 Content: ...                (    OER Cloud    )     ║      '-----------'      ║
-Author: ...                  '-(           )-'  +-->║ Digital Systems 2021    ║
+Author: ...                  '-(           )-'  +-->║ Digital Systems 2023    ║
 Versions: ...                   '-.(   ).-'     |   ║                         ║
                                      |          |
                                      +----------+          .-----------.
                                                 |   ╔══════|  Webapp   |══════╗
                                                 |   ║      '-----------'      ║
-                                                +-->║ Digital Systems 2021    ║
+                                                +-->║ Digital Systems 2023    ║
                                                     ║                         ║
 ```
 
