@@ -139,72 +139,6 @@ Just click on the presentation button to switch between modes.
 
 ## General Idea 
 
-### Vision
-
-The idea is simple, make engaging educational content easy to write and create.
-Distribute it via different sources using the latest Web 3.0 technologies, (no central server required).
-
-<!--
-style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-right: auto;"
--->
-```ascii
-
-Version 1.0                           Version 1.1
-+---------------------------+          +---------------------------+
-| Course  German Literatur  |          | Course  German Literature |
-| Authors John Muster       | "Error"  | Authors John Muster       |
-|                           |------->  |         Angelika Maier    |----->
-|~~~~~~~~~~~~~~~~~~~~~~~~~~~|          |~~~~~~~~~~~~~~~~~~~~~~~~~~~|
-| In 1756 Goethe visited    |---.      | In 1786 Goethe visited    |--.
-| Italy ...                 |   |      | Italy ...                 |  |
-                                |                                     |
-                                |                                     |    +----------------------------+
-                                |                                     |    | Course  Deutsche Literatur |
-                                |                                     |    | Authors John Muster        |
-                                |                                     .--> |         Angelika Maier     |
-                                |                                          |         Steve Gray         |
-                                |                                          |~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
-                                |                                          | 1786 reiste Goethe nach    |
-                                |                                          | Italien ...                |
-                                |       Version 1.0
-                                |      +---------------------------+
-                                |      | Course  Goethe & Schiller |
-                                |      | Authors John Muster       |
-                                .-->   |         Angelika Maier    |----->
-                                       |~~~~~~~~~~~~~~~~~~~~~~~~~~~|
-                                       | The correspondence during |
-                                       | the Italian journey ...   |
-```
-*Versions of the teaching content of a course and its reuse in other courses*.
-
-{{0-1}}
-********************************************************************************
-
-| requirement       | md  |                                                         |
-| ----------------- | --- | ------------------------------------------------------- |
-| `storing/copying` | ++  | advantageous because of small size                      |
-| `use`             | ++  | analog / digital distribution to students uncomplicated |
-| `process`         | ++  | processable without additional software                 |
-| `adapting/mixing` | ++  | simple combination of text fragments via copy&paste     |
-| `disseminate`     | ++  | easily exportable                                       |
-
-
-### Comparison with Wikipedia
-
-> Can Wikipedia be the inspiration for OER?
-
-| Aspect     | Wikipedia - Solution                                                             | Disadvantage                                                             |
-| ---------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| search     | one instance of an article directly retrievable                                  | no different expressions possible for one topic.                         |
-| tools      | integrated editor based on a Markdown dialect                                    | strong limitation of possibilities to structured texts, formulas, images |
-| quality    | sophisticated review system with experts, version data collection and comparison |                                                                          |
-| visibility | authorship visible in version history                                            |                                                                          |
-
-                      {{1-2}}
-************************************************************************************
-
-> No, the focus is completly different!
-
 <!--
 style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-right: auto;"
 -->
@@ -235,9 +169,6 @@ Versions: ...                   '-.(   ).-'     |   ║                         
                                                 +-->║ Digital Systems 2021    ║
                                                     ║                         ║
 ```
-
-
-************************************************************************************
 
 
 ## Survey
