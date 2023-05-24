@@ -248,6 +248,6 @@ The state model of a file results in three levels on which we can classify a fil
 
 GitHub is a platform that offers online Git version management and adds it to a project management. Besides coordinating the versions, they can be linked to tasks, milestones can be checked and certain tasks can be executed automatically.
 
-![alt-text](images/ScreenshotTutorialSeite.png)
+![alt-text](images/GitHubScreenshot_Dakar.png)
 
 > Let's take a closer view and generate your first Github project.
