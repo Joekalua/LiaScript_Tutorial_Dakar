@@ -125,9 +125,6 @@ In any case, a lot of manual work ...
 
 ******************************************************************************
 
-                          {{2-3}}
-> In software development, this problem is solved by version management systems. We want to apply the existing methods for this to OER.
-
 ###  Version management - Wikipedia Approach
 
 > Can Wikipedia be the inspiration for Versionmanagment?
@@ -163,7 +160,7 @@ The development history of git is connected to the Linux kernel with thousands o
 | 1991 | Changes to the Linux kernel via patches and archive files      |
 | 2002 | Linux kernel managed with the BitKeeper tool                   |
 | 2005 | Break between the distributing company and the Linux community |
-| 2021 | The current version is 2.31.1                                  |
+| 2023 | The current version is 2.40.1                                  |
 
 In 2005 a list of requirements for a new development was defined. It was emphasized that it must be able to support especially very large projects (number of developers, features and lines of code, files). From this `Git` was developed as free software for distributed version management of files.
 
